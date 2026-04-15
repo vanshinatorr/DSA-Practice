@@ -1,5 +1,7 @@
-# 🧩 Problem: Isomorphic Strings (LeetCode 205)
+/* # 🧩 Problem: Isomorphic Strings (LeetCode 205)
 
+
+   https://leetcode.com/problems/isomorphic-strings/
 ## 📌 Problem Statement
 
 Given two strings `s` and `t`, determine if they are **isomorphic**.
@@ -38,11 +40,7 @@ We use:
 
 ---
 
-## ✅ Code (C++)
-
-```cpp
-// File: isomorphic_strings.cpp
-
+*/
 #include <bits/stdc++.h>
 using namespace std;
 
@@ -86,6 +84,7 @@ public:
 ```
 
 ---
+  /*
 
 ## ⏱️ Complexity Analysis
 
@@ -134,7 +133,7 @@ false
 Reason:
 
 * `d → b` conflicts with existing `b → b`
-
+*/
 ---
 
 ## 💬 Interview One-Liner
