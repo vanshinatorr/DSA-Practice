@@ -1,6 +1,8 @@
 # /*
 
 # 📌 Problem: Check if Array is Sorted and Rotated
+https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/description/
+
 
 🧠 Approach:
 
