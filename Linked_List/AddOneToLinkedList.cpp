@@ -1,9 +1,7 @@
 /*
 ===============================================================================
 File Name   : AddOneToLinkedList.cpp
-Author      : Your Name
-Created On  : YYYY-MM-DD
-Platform    : Coding Ninjas / Interview Prep
+https://www.geeksforgeeks.org/problems/add-1-to-a-number-represented-as-linked-list/1?utm_source=chatgpt.com#
 Topic       : Linked List
 Problem     : Add One To Linked List
 Difficulty  : Easy / Medium
