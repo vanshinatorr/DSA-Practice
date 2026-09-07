@@ -1,6 +1,6 @@
 /* <!--
 # Aggressive Cows
-
+https://www.naukri.com/code360/problems/aggressive-cows_1082559?interviewBundleRedirection=true&utm_source=chatgpt.com&leftPanelTabValue=PROBLEM
 ## Problem
 Given stall positions and k cows, place cows such that the minimum distance between any two cows is maximized.
 
